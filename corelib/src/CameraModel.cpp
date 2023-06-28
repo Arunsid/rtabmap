@@ -35,6 +35,14 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #include <rtabmap/utilite/UStl.h>
 #include <opencv2/imgproc/imgproc.hpp>
 
+
+***
+//Added lines from internet
+//Added  new line for a feature
+//Added  3 new line for a feature
+
+
+
 namespace rtabmap {
 
 CameraModel::CameraModel() :
