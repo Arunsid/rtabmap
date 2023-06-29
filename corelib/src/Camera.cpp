@@ -25,6 +25,13 @@ ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
+
+//Addding line from local repository
+
+
+
+
+
 #include "rtabmap/core/Camera.h"
 
 #include <rtabmap/utilite/UEventsManager.h>
